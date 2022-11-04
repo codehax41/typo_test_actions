@@ -4,3 +4,4 @@ pandas
 torch
 tabulate
 nltk
+sentencepiece
