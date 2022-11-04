@@ -25,4 +25,4 @@ jobs:
           cat failure_modes.txt >> report.md
           
           # Send it!
-          cml-send-comment report.md
+          # cml-send-comment report.md
